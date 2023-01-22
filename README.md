@@ -50,7 +50,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](/output5.png)
+![Gaussion elimination](/output5.png)
 
 
 ## Result:
